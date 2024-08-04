@@ -1,0 +1,1 @@
+Repositório destinado ao projeto Ignite Feed da Trilha React.js da instituição Rocketseat
